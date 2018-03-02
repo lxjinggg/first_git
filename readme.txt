@@ -1,1 +1,2 @@
-this is my fisrt git
+this is my first git
+
